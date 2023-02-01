@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Naming-App/static/css/main.50591772.css",
+    "main.js": "/Naming-App/static/js/main.1cd2b288.js",
+    "index.html": "/Naming-App/index.html",
+    "main.50591772.css.map": "/Naming-App/static/css/main.50591772.css.map",
+    "main.1cd2b288.js.map": "/Naming-App/static/js/main.1cd2b288.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50591772.css",
+    "static/js/main.1cd2b288.js"
+  ]
+}
